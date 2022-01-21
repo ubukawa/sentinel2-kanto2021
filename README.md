@@ -24,6 +24,11 @@ maxz 13
   
 Quick view https://ubukawa.github.io/sentinel2-kanto2021/kanto2021-leaflet.html
 
+# Display with GSI Maps Vector
+The raster layer is added to the style for the standard map of GSI maps Vector (by Geospatial Information Authority of Japan.)
+https://ubukawa.github.io/sentinel2-kanto2021/test-map.html  
+https://ubukawa.github.io/sentinel2-kanto2021/style.json  
+
 # Citation
 We follow the terms of use of the Sentinel2 data. We need to clearly specify the source.  
 
